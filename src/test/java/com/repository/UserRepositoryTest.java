@@ -16,7 +16,7 @@ public class UserRepositoryTest {
 
     @Test
     public void name() {
-        assertEquals("hello", "hello");
+        assertEquals("hello", "hello1");
     }
 
     @Test
