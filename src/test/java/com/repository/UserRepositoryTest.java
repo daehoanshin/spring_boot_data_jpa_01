@@ -26,5 +26,6 @@ public class UserRepositoryTest {
         assertEquals(0, userRepository.count());
         userRepository.save(user);
         assertEquals(1, userRepository.count());
+        //변경
     }
 }
